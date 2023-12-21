@@ -1,0 +1,106 @@
+body{
+    /* background-color: #31393C; */
+    background-image: url("	https://wallpapercave.com/dwp1x/wp7379259.png");
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    
+}
+body::-webkit-scrollbar {
+    display: none;
+}
+ 
+h1 {
+    color: #E5CFF7;
+    font-size: 5.625rem;
+    margin: 50px auto 0 auto;
+    font-family: "Sacramento", cursive;
+}
+ 
+h2 {
+    color: #E5CFF7;
+    font-family: "Montserrat", sans-serif;
+    font-size: 2.5rem;
+    font-weight: normal;
+    padding-bottom: 10px;
+}
+.name{
+    background-image: url("	https://wallpapercave.com/wp/wp6350573.jpg");
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-attachment: fixed;
+ 
+}
+#pawan{
+    border-radius: 50%;
+    background-position: center;
+    background-size: cover;
+}
+.text{
+    color: #E5CFF7;
+}
+#custom-cards{
+    /* background-color: #191716; */
+    background-image: url("https://wallpapercave.com/dwp1x/wp8679408.jpg");
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-attachment: fixed;
+    border-radius: 50px;
+/* background: #191716; */
+    box-shadow:  11px 11px 22px #0d0c0b,
+                -11px -11px 22px #252221;
+}
+#hi-main{
+    background-image: url("	https://wallpapercave.com/dwp1x/wp8679388.jpg");
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-attachment: fixed;
+    border-radius: 0px;
+    /* background: #2176FF; */
+    box-shadow:  5px 5px 0px gray,
+             -5px -5px 0px gray;
+}
+.cardcont{
+    text-align: end;
+    color: black;
+}
+h3 {
+    color: #E5CFF7;
+    font-family: "Montserrat", sans-serif;
+}
+.myButton{
+    background-color: #6d1e97d5;
+    border-radius: 0px;
+    box-shadow: inset 6px 6px 0px #531773,
+            inset -6px -6px 0px #8725bb;
+}
+.ending{
+    background-color: #6E7271;
+}
+.text-body-secondary{
+    color: #6E7271;
+}
+#java-sel{
+    background-image: url("	https://wallpapercave.com/dwp1x/wp7250262.jpg");
+    background-size: contain;
+    background-repeat: no-repeat;
+}
+#gotg-mix{
+    background-image: url("https://wallpapercave.com/wp/wp11259598.jpg");
+}
+#streaming-songs{
+    background-image: url("	https://wallpapercave.com/wp/wp11882255.jpg");
+}
+.pro-img{
+    
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    /* background-attachment: fixed; 	https://media1.tenor.com/m/QNhJ297m7l0AAAAd/rolling-cassette.gif */
+}
+.social{
+    color: black;
+}
